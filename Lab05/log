@@ -1,0 +1,31 @@
+/home/epammpak/Lab05
+lab05
+log
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 411125      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1236/epammpak)   Gid: ( 1238/epammpak)
+Access: 2024-12-19 12:59:49.755316735 +0200
+Modify: 2024-12-19 12:59:49.755316735 +0200
+Change: 2024-12-19 12:59:49.755316735 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rm: cannot remove 'empty_directory/': Is a directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./source.txt
+./newname.txt
+./destination.txt
+Hello
+from
+file.txt!
+Hello
+from
+file.txt!
+Hello
+from
+file.txt!
+Hello
+from
+file.txt!
